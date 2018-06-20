@@ -1,0 +1,13 @@
+#IntelliJ
+
+
+.idea/
+*.iml
+
+#ouden Aap Gradle
+
+gradlew*
+
+gradle/
+.gradle/
+
